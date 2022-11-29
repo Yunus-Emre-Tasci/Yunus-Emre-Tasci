@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning everything 😄
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](www.github.com/Yunus-Emre-Tasci)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Yunus-Emre-Tasci&show_icons=true&theme=radical)
-
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Yunus-Emre-Tasci&show_icons=true&theme=radical)
 
 
 <h3 align="left">Languages and Tools:</h3>
