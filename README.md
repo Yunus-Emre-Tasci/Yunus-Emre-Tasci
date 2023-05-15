@@ -1,6 +1,6 @@
 ### Hi, I'm Yunus Emre Taşçı 👋
 
-                                                         I'm Frontend Developer
+                                                         I'm Fullstack Developer
 
 - 🔭 I’m currently working on JavaScript| TypeScript | React | Bootstrap | SASS | HTML | CSS | Python |SQL | Linux | GİT| Django|Tailwind Css
 - 🌱 I’m currently learning everything 😄
